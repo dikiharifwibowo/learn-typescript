@@ -1,6 +1,6 @@
 //Without any data type
 let phoneNumber: number = 123456789;
-phoneNumber = "+628123456789";
+//phoneNumber = "+628123456789";
 // Output: Type 'string' is not assignable to type 'number'.
 
 
