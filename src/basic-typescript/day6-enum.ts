@@ -14,7 +14,7 @@ console.log(Month.JAN);
 //String Enum
 enum Month2 {
   JAN = "January",
-  FEB,
+  //FEB,
 }
 console.log(Month2);
 //Output: Enum member must have initializer.

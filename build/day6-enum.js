@@ -15,7 +15,7 @@ console.log(Month.JAN);
 var Month2;
 (function (Month2) {
     Month2["JAN"] = "January";
-    Month2[Month2["FEB"] = void 0] = "FEB";
+    //FEB,
 })(Month2 || (Month2 = {}));
 console.log(Month2);
 //Output: Enum member must have initializer.
