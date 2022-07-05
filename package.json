@@ -6,7 +6,7 @@
   "scripts": {
     "tsc": "rm -rf build/ && tsc",
     "ts": "rm -rf build/ && tsc -w",
-    "dev": "nodemon ./build/day9-function-data-type.js"
+    "dev": "nodemon ./build/day10-object-data-type.js"
   },
   "keywords": [
     "typescript"
