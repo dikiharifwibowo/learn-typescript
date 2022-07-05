@@ -4,8 +4,9 @@ function getFirstName() {
     return "Hello, my name is John";
 }
 function getLastName() {
-    return 23;
-    //Output: Type '23' is not assignable to type 'string'.
+    return "Doe";
+    //return 23;
+    //Output: Type 'number' is not assignable to type 'string'.
 }
 function getAge() {
     return 24;
