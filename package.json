@@ -6,7 +6,7 @@
   "scripts": {
     "tsc": "rm -rf build/ && tsc",
     "ts": "rm -rf build/ && tsc -w",
-    "dev": "nodemon ./build/day12-function-default-parameter.js"
+    "dev": "nodemon ./build/day13-function-optional-parameter.js"
   },
   "keywords": [
     "typescript"
