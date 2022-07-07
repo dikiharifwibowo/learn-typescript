@@ -8,6 +8,6 @@ console.log(user);
 let user2 = {
     name: "John",
     age: 24,
-    address: '123 Main St',
+    // address: '123 Main St',
     //Output : Object literal may only specify known properties, and 'address' does not exist in type 'User'.
 };
