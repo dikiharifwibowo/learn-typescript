@@ -14,7 +14,7 @@ function getAge(): number {
   return 24;
 }
 
-function setFullName(): void {
+function setFullName() {
   console.log("No return value");
 }
 setFullName();
