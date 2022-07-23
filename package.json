@@ -6,7 +6,7 @@
   "scripts": {
     "tsc": "rm -rf build/ && tsc",
     "ts": "rm -rf build/ && tsc -w",
-    "dev": "nodemon ./build/day21-generic.js"
+    "dev": "nodemon ./build/day22-class-generic.js"
   },
   "keywords": [
     "typescript"
