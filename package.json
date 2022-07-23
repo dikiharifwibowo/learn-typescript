@@ -6,7 +6,7 @@
   "scripts": {
     "tsc": "rm -rf build/ && tsc",
     "ts": "rm -rf build/ && tsc -w",
-    "dev": "nodemon ./build/day17-setter-getter.js"
+    "dev": "nodemon ./build/day18-static-property-static-method.js"
   },
   "keywords": [
     "typescript"
